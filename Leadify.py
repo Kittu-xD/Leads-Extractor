@@ -1,5 +1,5 @@
 import requests
-import bs4 as BeautifulSoup
+from bs4 import BeautifulSoup
 import sys
 import random, time
 colors = [36, 32, 34, 35, 31, 37]
